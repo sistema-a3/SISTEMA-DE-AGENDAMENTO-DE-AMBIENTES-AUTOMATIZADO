@@ -1,0 +1,16 @@
+.text-center .bg-active,
+  .text-center .bg-disabled {
+    width: 100%;
+    padding: 5%;
+    box-shadow: 5px 5px 5px 1px rgba(0, 0, 0, 0.1);
+  }
+  
+.bg-active {
+    background-color: #57ec938c;
+    color: #006A17;
+    font-weight: bolder;
+    border-radius: 20px;
+    /* height: 20px; */
+    padding: 1%;
+    width: 70%;
+  }
